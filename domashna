@@ -1,0 +1,10 @@
+function Kniga (naslov,avtor,godina)  {
+
+    this.naslov = naslov;
+    this.avtor = avtor;
+    this.godina = godina;
+}
+
+var kniga = new Kniga ('Alhemicarot','paulo coelho','1987' );
+
+console.log(kniga);
