@@ -38,4 +38,3 @@ function doesDigitExistsInNumber(digit, numberX) {
 
 console.log(isTotallyDifferent(100, 213));
 
-dsffsf
